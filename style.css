@@ -1,0 +1,14 @@
+.discounts {
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px 0px rgb(133, 135, 252);
+}
+
+.jumbotron, .discounts {
+    border: 1px solid rgb(133, 135, 252);
+}
+
+.toast {
+    position: absolute;
+    top: 65px;
+    right: 10px;
+}
